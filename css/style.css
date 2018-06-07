@@ -1,9 +1,4 @@
-/* 
-    Created on : 7 Jul, 2017, 
-    Author     : Design_mylife
-    File       : Complete real estate custom file
-*/
-/**mixins**/
+
 @import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800";
 
 @import "https://fonts.googleapis.com/css?family=Raleway";
@@ -20,11 +15,6 @@ body {
   line-height: 22px;
   background-color: #fff;
 }
-
-/*
-/*-----------------------------------------------------------------------------------*/
-/*	RESET
-/*-----------------------------------------------------------------------------------*/
 *,
 *:before,
 *:after {
@@ -82,10 +72,12 @@ hr {
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   border-radius: 0px;
-  background-color: #0688de;
+  background-color: #4caf50;
   padding: 3px 6px;
 }
-
+.font-18{
+	font-size:18px !important;
+}
 .badge2 {
 font-weight: normal;
     margin-left: 5px;
@@ -122,12 +114,12 @@ a {
 
 a:hover,
 a:focus {
-  color: #0688de;
+  color: #4caf50;
   text-decoration: none;
 }
 
 .colored-text {
-  color: #0688de;
+  color: #4caf50;
 }
 
 /* Headings */
@@ -337,7 +329,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 }
 .title-section .link-arrow {
   padding: 2px 8px;
-  background-color: #0688de;
+  background-color: #4caf50;
   color: #fff;
   float: right;
   display: inline-block;
@@ -397,11 +389,11 @@ TOP BAR
 }
 .journals-list ul li a:hover{
 	color:#fff;
-	background-color:#0688de;
-	border-left:6px solid #0688de;
-	border-bottom:1px solid #0688de;
-	border-right:1px solid #0688de;
-	border-top:1px solid #0688de;
+	background-color:#4caf50;
+	border-left:6px solid #4caf50;
+	border-bottom:1px solid #4caf50;
+	border-right:1px solid #4caf50;
+	border-top:1px solid #4caf50;
 /*-webkit-box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.48);
 -moz-box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.48);
 box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.48);*/
@@ -409,7 +401,7 @@ font-weight:600;
 }
 .ti-spi{
 	font-size: 15px;
-    color: #0688de;
+    color: #4caf50;
     font-weight: 600;
 }
 .left-box3{
@@ -430,7 +422,7 @@ font-weight:600;
 	line-height:40px;
 }
 .left-box3 ul li a{
-	color:#005596;
+	color:#083c64;
 	text-decoration:none;
 	line-height:40px;
 	font-weight:600;
@@ -472,12 +464,12 @@ font-weight:600;
 	font-size:16px;
 }
 .eb-list ul li a:hover{
-	color:#0688de;
+	color:#4caf50;
 	background-color:#fff;
-	border-left:6px solid #0688de;
-	border-bottom:1px solid #0688de;
-	border-right:1px solid #0688de;
-	border-top:1px solid #0688de;
+	border-left:6px solid #4caf50;
+	border-bottom:1px solid #4caf50;
+	border-right:1px solid #4caf50;
+	border-top:1px solid #4caf50;
 /*-webkit-box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.48);
 -moz-box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.48);
 box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.48);*/
@@ -541,7 +533,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
 	padding:0px 0px 15px 0px;
 	font-size:23px;
 	text-transform:uppercase;
-	color:#0688de;
+	color:#4caf50;
 }
 .conference-text p{
 	margin:0px;
@@ -563,7 +555,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
 	 border: 1px solid #e3e3e3;
 	 padding:10px;
 	 text-align:center;
-	 color:#005596;
+	 color:#083c64;
 	 font-weight:600;
 }
 .well2{
@@ -670,10 +662,10 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
   padding: 10px;
 }
 .top-bar {
-  background-color: #fff;
+  background-color: #333;
 }
 .top-bar .top-welcome {
-  color: #666;
+  color: #fff;
   font-size: 14px;
   line-height: 50px;
 
@@ -697,7 +689,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
     height: 50px;
     line-height: 50px;
     text-align: center;
-    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: 1px solid #aaa;
 }
 
 .top-social a:first-child{
@@ -726,7 +718,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
 }
 
 .header-icon {
-  color: #0688de;
+  color: #4caf50;
   font-size: 24px;
   padding-right: 10px;
   vertical-align: -4px;
@@ -767,7 +759,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
   padding-right: 0;
 }
 .contact-info-blocks > div i {
-  color: #0688de;
+  color: #4caf50;
   margin-right: 5px;
 }
 .contact-info-blocks > div span {
@@ -798,7 +790,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
   border-radius: 2px;
-  background-color: #0688de;
+  background-color: #4caf50;
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
 }
@@ -819,7 +811,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
   border-radius: 0px;
 }
 .search-widget-2 .form-control:focus {
-  border-color: #0688de;
+  border-color: #4caf50;
 }
 .search-widget-2 .submit-2 {
   position: absolute;
@@ -838,8 +830,7 @@ NAVBAR
   background: transparent;
 }
 .bg_color{
- background-color: #0688de;
- border-radius: 5px; 
+ background-color: #4caf50;
 }
 .navbar{
   border: 0px;
@@ -862,7 +853,7 @@ NAVBAR
 }
 .navbar-inverse .navbar-nav > li > a:hover {
  color: #bee6ff ;
- background-color:#005596;
+ background-color:#083c64;
  display:block;
 }
 
@@ -986,10 +977,10 @@ MULTI LEVEL DROPDOWN CSS
 box-shadow: 2px 3px 8px -1px rgba(0,0,0,0.27);
 }
 .box-special:hover{
-	border-top:1px solid #0688de;
-	border-right:1px solid #0688de;
-	border-bottom:1px solid #0688de;
-	border-left:5px solid #0688de;
+	border-top:1px solid #4caf50;
+	border-right:1px solid #4caf50;
+	border-bottom:1px solid #4caf50;
+	border-left:5px solid #4caf50;
 	
 }
 .box-special1{
@@ -1009,7 +1000,7 @@ display:block;
 }
 .special-text h4{
 	margin:20px 0px;
-	color: #0688de;
+	color: #4caf50;
 }
 .special-text1 h4{
 	margin:4px 0px;
@@ -1123,7 +1114,7 @@ display:block;
   color: #fff;
 }
 .footer .media-heading a:hover {
-  color: #0688de;
+  color: #4caf50;
 }
 .footer .location {
   font-size: 13px;
@@ -1140,13 +1131,13 @@ display:block;
   color: #fff;
 }
 .footer ul li a:hover {
-  color: #0688de;
+  color: #4caf50;
 }
 .footer p a {
   color: #fff;
 }
 .footer p a:hover {
-  color: #0688de;
+  color: #4caf50;
 }
 
 .copyright {
@@ -1159,7 +1150,7 @@ display:block;
 .call-to-action {
   padding-top: 40px;
   padding-bottom: 25px;
-  background-color: #0688de;
+  background-color: #4caf50;
 }
 .call-to-action h3 {
   color: #fff;
@@ -1267,7 +1258,7 @@ buttons for real estate
   height: 25px;
   line-height: 25px;
   text-align: center;
-  background-color: #0688de;
+  background-color: #4caf50;
 }
 
 .all-property-slider .owl-item {
@@ -1278,7 +1269,7 @@ buttons for real estate
 .search-filter {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: #0688de;
+  background-color: #4caf50;
 }
 .search-filter h3{
   margin:0px;
@@ -1323,7 +1314,7 @@ buttons for real estate
   color: #fff;
   font-size: 12px;
   padding: 2px 8px;
-  background-color: #0688de;
+  background-color: #4caf50;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -1398,19 +1389,19 @@ buttons for real estate
   z-index: 2;
   color: #fff;
   cursor: default;
-  background-color: #0688de;
-  border-color: #0688de;
+  background-color: #4caf50;
+  border-color: #4caf50;
 }
 
 .pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
   z-index: 3;
   color: #fff;
-  background-color: #0688de;
-  border-color: #0688de;
+  background-color: #4caf50;
+  border-color: #4caf50;
 }
 
 .pagination > li > a, .pagination > li > span {
-  color: #0688de;
+  color: #4caf50;
 }
 
 /***thumb slider for detail gallery page**/
@@ -1426,7 +1417,7 @@ buttons for real estate
   line-height: 30px;
   text-align: center;
   text-shadow: none;
-  background-color: #0688de;
+  background-color: #4caf50;
   color: #fff;
 }
 .thumb-slider .flex-direction-nav a.flex-next:before {
@@ -1475,7 +1466,7 @@ buttons for real estate
 }
 
 .additional-amenities span.available {
-  color: #0688de;
+  color: #4caf50;
 }
 
 .agent-social a {
@@ -1491,7 +1482,7 @@ buttons for real estate
 }
 .agent-social a:hover {
   color: #fff;
-  background-color: #0688de;
+  background-color: #4caf50;
 }
 
 .about-agency h3 {
@@ -1502,7 +1493,7 @@ buttons for real estate
   float: left;
   margin-right: 5px;
   font-size: 15px;
-  color: #0688de;
+  color: #4caf50;
   width: 40px;
   height: 20px;
   text-align: center;
@@ -1525,7 +1516,7 @@ buttons for real estate
   padding: 20px;
 }
 .price-box .price-header h3 {
-  color: #0688de;
+  color: #4caf50;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
@@ -1611,7 +1602,7 @@ buttons for real estate
   line-height: 32px;
   text-align: center;
   color: #fff;
-  background-color: #0688de;
+  background-color: #4caf50;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1691,10 +1682,10 @@ buttons for real estate
   padding-bottom: 20px;
 }
 .tweet ul li a {
-  color: #0688de;
+  color: #4caf50;
 }
 .tweet ul li a:hover {
-  color: #0688de;
+  color: #4caf50;
   text-decoration: underline;
 }
 
@@ -1707,7 +1698,7 @@ buttons for real estate
 }
 .tag-list a:hover {
   color: #fff;
-  background-color: #0688de;
+  background-color: #4caf50;
 }
 .tag-list a i {
   margin-right: 3px;
@@ -1821,7 +1812,7 @@ line-height: 50px;
   margin-left:2%;
 }
 .small_menu li a{
-  color: rgba(0, 0, 0, 0.6);
+  color: #fff;
   font-size: 13px; 
   font-weight: 600;
 }
@@ -1853,7 +1844,7 @@ line-height: 50px;
   font-weight: 600;
 }
 .small_menu li a:hover{
-  color: #0688de !important;
+  color: #4caf50 !important;
 }
 .Welcome_txt h2{
   margin-bottom: 40px !important;
@@ -1862,7 +1853,7 @@ line-height: 50px;
 }
 .Welcome_txt h5{
   text-transform: uppercase;
-  color: #0688de;
+  color: #4caf50;
   margin-bottom: 10px;
   
 }
@@ -1874,15 +1865,31 @@ line-height: 50px;
  content: " ";
     width: 75px;
     height: 3px;
-    background: #0688de;
+    background: #4caf50;
     color: red;
     position: absolute;
     top: 110%;
     left: 0%;
 }
+.Welcome_txt h3{
+  position: relative;
+  
+}
+.Welcome_txt h3:after{
+
+ content: " ";
+    width: 75px;
+    height: 3px;
+    background: #4caf50;
+    color: red;
+    position: absolute;
+    top: 150%;
+    left: 0%;
+}
 .Welcome_txt p{
       text-align: justify;
-    font-size: 14px;
+    line-height:30px !important;
+	font-size:16px !important;
     color: #000;
 }
 .middle_left1{
@@ -1893,7 +1900,7 @@ line-height: 50px;
 }
 .read-more{
   padding: 10px 14px;
-    background: #005596;
+    background: #083c64;
     color: #fff;
     margin-top: 25px;
     display: table;
@@ -2016,7 +2023,7 @@ color:#000;
   font-weight: 300;
 }
 .span_txt:hover{
-  color:#0688de;
+  color:#4caf50;
 }
 .Welcome_txt1 h2{
   float: left ;
@@ -2036,7 +2043,7 @@ color:#000;
   display: table;
 }
 .books_btn:hover{
-  border:1px solid #0688de;
+  border:1px solid #4caf50;
 }
 .item_box{
   margin-left: 9px;
@@ -2059,7 +2066,7 @@ color:#000;
   padding-left: 0px !important
 }
 .blue{
-  color:#005596 !important;
+  color:#083c64 !important;
   margin-bottom: 15px;
   display: table;
   margin-top: 40px;
@@ -2091,7 +2098,7 @@ color:#000;
 }
 
 .list-unstyled li a:hover{
-  color:#0688de !important;
+  color:#4caf50 !important;
 }
 .contact p{
   padding-left: 10px;
@@ -2106,7 +2113,7 @@ color:#000;
 }
 .current{
   color:#bee6ff !important;
-      background: #005596;
+      background: #083c64;
 }
 .inner_div1{
   color: rgba(0,0,0,0.6);
@@ -2261,7 +2268,7 @@ border-radius: 5px;
   background-image: url(../img/inner_bg.jpg);
   background-repeat: no-repeat;
 background-size: cover;
-  border-bottom: 10px solid #0688de;
+  border-bottom: 10px solid #4caf50;
 }
 .padding_top_60{
   padding-top:60px;
@@ -2317,7 +2324,7 @@ background-size: cover;
   color: #7bffcf !important;
 }
 .redirect_link li:hover{
-  background: #005596;
+  background: #083c64;
 }
 .active_li{
   position: relative;
@@ -2353,7 +2360,7 @@ background-size: cover;
   text-transform: uppercase;
 }
 .btns a{
-  background: #0688de;
+  background: #4caf50;
     font-size: 12px;
     font-weight: 600;
     text-align: center;
@@ -2604,7 +2611,7 @@ background-size: cover;
 
 }
 .breadcrome a{
-  color: #0688de;
+  color: #4caf50;
     padding-right: 3px;
     padding-left: 6px;
 }
@@ -2691,7 +2698,7 @@ background-size: cover;
           position:absolute;top:345px;left:20px;width:400px;height:auto;z-index:100!important;
         }
         .txt h3{
-          position:absolute;top:0px;left: -144px;width:1170px;;z-index:0;font-size: 26px;font-weight: 500;text-transform: uppercase;text-align: left;color:#005596;
+          position:absolute;top:0px;left: -144px;width:1170px;;z-index:0;font-size: 26px;font-weight: 500;text-transform: uppercase;text-align: left;color:#083c64;
         }
         .txt h1{
           position:absolute;top:0px;left:-144px;width:1170px;z-index:0;color:#fff;font-size: 22px;text-transform: uppercase;text-align:left;font-weight: normal;
@@ -2812,7 +2819,7 @@ background-size: cover;
             height: 157px;
           }
           .btns a {
-    background: #0688de;
+    background: #4caf50;
     font-size: 12px;
     font-weight: 600;
     text-align: center;
@@ -2905,7 +2912,7 @@ background-size: cover;
     transition: all 0.3s ease;
 }
 #return-to-top:hover {
-    background: #005596;
+    background: #083c64;
 }
 #return-to-top:hover i {
     color: #fff;
@@ -2935,7 +2942,7 @@ background-size: cover;
 .search-filter {
     padding-top: 30px;
     padding-bottom: 20px;
-    background-color: #0688de;
+    background-color: #4caf50;
 }
 }
 

@@ -5,13 +5,14 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Open Access Peer Reviewed Medical Journals – MedDocs Online Publishers</title>
+        <title>GRF Publishers</title>
         <meta name="description" content="MedDocs Publishers is a dedicated powerhouse for publishing informative journals in various areas of science, medicine. Peer-reviewed Journals| Medical Journals">
     <meta name="keywords" content="peer reviewed medical journals, medical articles online, journal of medical informatics, latest medical journal articles, journal of medical research.">
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css  -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen">
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         
@@ -26,26 +27,25 @@
         <link href="rs-plugin/css/settings.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/rev-style.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen"> 
-        <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
+       <!-- <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">-->
     </head>
     <body>
-        <div class="top-bar hidden-xs">
+        <div class="top-bar hidden-xs bg-dark">
             <div class="container ">
                 <div class=" row border_bootom">
                     <div class="col-sm-6 hidden-xs">
-                        <span class="top-welcome">Welcome to MedDocs Publishers</span>
+                        <span class="top-welcome">Welcome to GRF Publishers</span>
                     </div>
                     <div class="col-sm-6 hidden-xs">
                         <ul class="small_menu">
-                        <li><a href="index.html" >HOME</a></li>                 
-                        <li ><a href="journals.html">JOURNALS</a></li>
-                        <li ><a href="e-books.html"> eBOOKS</a></li>
-                        <li ><a href="conference.html"> CONFERENCES</a></li>
+                        <li><a ><i class="fa fa-volume-control-phone font-18" aria-hidden="true"></i> &nbsp; 99510*******</a></li>                 
+                        <li><a ><i class="fa fa-envelope font-18" aria-hidden="true"></i> &nbsp; contact@grf.com</a></li>                 
+                      
                        </ul>
                         <div class="top-social hidden-xs">
-                            <a href="https://www.facebook.com/MedDocsOnline/" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="https://twitter.com/MedDocsOnline" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="https://plus.google.com/u/0/104451341523748356714" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                             <a href="#"> <i class="fa fa-linkedin" aria-hidden="true"></i> </a>
 
                         </div>
@@ -58,26 +58,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-4 padding_left_0">
-                        <a href="index.html" class="header-logo">
+                        <a href="index.php" class="header-logo">
                             <img src="img/logo.png" alt="LOGO">
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-8 hidden-xs ">
-                        <div class="contact-info-blocks  hidden-xs pull-right1">
-                           <div class="left_one">
-                                <div class="inner_div"><img src="img/ph.png"></div> 
-                                <div class="inner_div1">
-                                <span>PHONE</span>
-                                +1-775-549-0087
-                                </div>
-                            </div>
-                            <div class="right_one">
-                                 <div class="inner_div"><img src="img/email.png"></div> 
-                                 <div class="inner_div1">
-                                <span>EMAIL</span>
-                              <a href="mailto:support@meddocsonline.org"> support@meddocsonline.org</a>
-                                </div>
-                            </div>
+                        <div class="contact-info-blocks  hidden-xs ">
+                           <marquee id='scroll_news' style="padding-top:50px" >
+										<div onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();"><h4 class="text-primary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </h4></div>
+									</marquee>
+                          
                         </div>
                     </div>
                    <!--  <div class="col-md-3 col-sm-5">
@@ -103,37 +93,20 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <!--     <a class="navbar-brand" href="index.html">Assan</a>-->
+                    
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="index.html" class="current">HOME</a></li> 
-                        <li><a href="about-us.html">ABOUT US</a></li>  
-                        <li ><a href="journals.html">JOURNALS</a></li>
-                        <li ><a href="e-books.html"> eBOOKS</a></li>
-                        <li ><a href="conference.html"> CONFERENCES</a></li>
+                        <li><a href="index.php" class="current">Home</a></li> 
+                        <li><a href="#" class="">Open Access</a></li> 
+                        <li><a href="#" class="">Peer Review Process </a></li> 
+                        <li><a href="#">Journals</a></li>  
+                        <li ><a href="#">Guidelines</a></li>
+                        <li ><a href="#">Conferences</a></li>
+						<li ><a href="#">Video Articles</a></li>
+						<li ><a href="#">Submit Manuscript</a></li>
+						<li ><a href="#"> Contact Us</a></li>
 
-                         <!--<li class="dropdown drop">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">GUIDELINES    <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
-                                <li>
-                                    <a  href="#">GUIDELINES1 </a>
-                                </li>
-                                <li class="dropdown-submenu">
-                                    <a  href="#">GUIDELINES2</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="">GUIDELINES2.1</a></li> 
-                                        <li><a href="">GUIDELINES2.2</a></li> 
-                                    </ul>
-                                </li>
-                                <li><a href="">GUIDELINES3</a></li>
-                                <li><a href="">GUIDELINES4</a></li>       
-                            </ul>
-                        </li>-->
-                        
-                        <li><a href="faq.html">FAQ's</a></li>
-                        <li><a href="membership.html">MEMBERSHIP</a></li>
-                        <li><a href="contactus.html">CONTACT US</a></li>
 
                     </ul>
                     

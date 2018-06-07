@@ -1,5 +1,4 @@
  <?php include("header.php"); ?>
-
        <div class="ab_class">
         <div class="mainbanner1">
              <div class="container">
@@ -16,7 +15,7 @@
                     <div class="carousel-caption">
                     <p> 
                     <a class="btn btn-primary" href="e-books.html" target="_blank">
-                    MedDocs Publishers - eBooks</a></p>
+                    GRF Open Access Publishers </a></p>
                                     
                     </div>            
                 </div><!-- End Item -->
@@ -74,18 +73,7 @@
                     <p><a href="journal-of-nanomedicine.html">Journal of Nanomedicine</a></p>
                  </div>
                  
-                 <!--<div class="arti-home">
-                 	<h4><a href="#">Non vitamin K antagonist oral anticoagulation- The future of anticoagulation following mitral reparative surgery</a></h4>
-                    <h5>Ishtiaq A Rahman*; Hunaid Vohra</h5>
-                    <p><a href="#">International Journal of Innovative Surgery</a></p>
-                 </div>-->
-                 
-               <!--  <div class="arti-home">
-                 	<h4><a href="#">Nanomedicine: The next-generation therapeutics</a></h4>
-                    <h5>Ranjith Kumar Kankala</h5>
-                    <p><a href="#">Journal of Nanomedicine</a></p>
-                 </div>-->
-                 
+               
 
                 </div>
              </div>
@@ -99,17 +87,15 @@
                     <div class="row">
                        
                        <div class="col-md-10 col-xs-12">
-                           <h3>MedDocs Publishers</h3>
+                           <h3>GRF Publishers</h3>
                            <p>The journals, e-books and conferences are being published and organized in order to spread the
 information on the latest technological and scientific researches among the core
 group with the aim of disseminating information for the betterment of mankind.</p>
                        </div>  
                        <div class="col-md-2 col-xs-12 text-center padding_0">
-                           <a href="about-us.html" class="btn btn-red btn-lg btn-block ">MORE INFO</a>
+                           <a href="#" class="btn btn-red btn-lg btn-block ">MORE INFO</a>
                        </div>
-                       <!--  <div class="col-md-3 col-sm-6 margin20">
-                            <a href="#" class="btn btn-red btn-lg btn-block"><i class="fa fa-search"></i>Search</a>
-                        </div> -->
+                       
                     </div>
                
             </div>
@@ -117,22 +103,310 @@ group with the aim of disseminating information for the betterment of mankind.</
         <div class="divide60"></div>
         <div class="container " >
             <div class="row">
-           <div class="col-md-12">
-                <div class="col-md-7 Welcome_txt fadeInLeft wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
-                    <h5>WELCOME TO meddocs</h5>
-                    <h2>ABOUT US </h2>
-                    <p>
-                         MedDocs Publishers is a very well-dedicated in publishing various informative medical journals which acts as a powerhouse to bring the physicians and the entire medical fraternity the best research with latest discovered key information in a completely understandable and clinically useful format. This is certainly a career companion for all physicians and medical researchers. The practicing physicians can be well informed about the various new developments in the field which is very necessary to treat patients in the best possible way. 
-
-
-                    </p>
-                    <a href="about-us.html" class="read-more"> READ MORE</a>
+           <div class="col-md-8">
+                <div class=" Welcome_txt fadeInLeft wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
+                  
+                    <h3>ABOUT US </h3>
+                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                   
                 </div>
-                 <div class="col-md-5 fadeInRight wow animated fadeInRight " data-wow-duration="1200ms" data-wow-delay="500ms">
-                     <img src="img/welcome_img.jpg" class="img-responsive col-sm-12">
-                 </div>
+				<br>
+				<div class=" Welcome_txt fadeInUp wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
+                  
+                    <h3>Our Vision</h3>
+                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                   
+                </div>
+				<br>
+				<div class="bg-primary text-white">
+					bdajdsajd
+				</div>
+				<div class="article">
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-head clearfix">
+					<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+					</div>
+					</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+					<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+					<div class="article-view">
+					<div class="tabl">
+					<img src="https://juniperpublishers.com/admin-juniper/uploads/editorial-board/2118854779JFSCI_.jpg" align="left" alt="Article Image">
+					</div>
+					</div>
+					</div>
+					<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+					<div class="article-details">
+					<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+					<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+					<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+						  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+					  </div>
+					</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; FullText</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-success " style="font-size:12px;">  <i class="fa fa-calendar" aria-hidden="true"></i> &nbsp; June 07, 2018</a>
+					</li>
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+                
 
            </div>
+		   <div class="col-md-4 mt20">
+   <div class="sidebar side-bar right-sidebar">
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Latest Updates Scrolling</h3>
+         <div class="cp-newsletter-holder" id="pubmed">
+            <marquee class="pubmed-articles" align="top" behavior="scroll" onmouseout="this.start();" onmouseover="this.stop();" direction="up" scrollamount="2" style="padding: 10px 0px 10px 0px;height: 200px;background: #f5f5f5;overflow:hidden;">
+               <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p><ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+               
+            </marquee>
+            
+         </div>
+      </div>
+	   <!-- Widget Start -->
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Submit Manuscript</h3>
+         <div class="cp-newsletter-holder">
+           <a href="#"> <img src="https://gavinpublishers.com/assets/img/Medical-Journals.jpg" alt="submit Manuscript"></a>
+         </div>
+      </div>
+      <!-- Widget Start -->
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Track Your Article</h3>
+         <div class="cp-newsletter-holder">
+            <!-- Post Comments Form -->
+            <div class="cp-comments-form">
+               <form method="post" id="trackarticleform" class="material" action="righttd.php">
+                  <div class="material-input input"><input type="text" name="trackmanuscriptid" class="form-control" placeholder="Enter Maniscript ID" style="width:100%;" onkeypress="return checkspecial_menuscript(event);" required="" id="trackmanuscriptid"><span class="material-bar"></span></div>
+                  <span class="error_msg"></span>           
+                  <div class="material-input input"><input type="email" name="trackemail" class="form-control" placeholder="Enter Email" style="width:100%;" onkeypress="return checkspecialname(event);" required="" id="trackemail"><span class="material-bar"></span></div>
+                  <span class="error_msg"></span> 
+                  <input type="submit" name="btntrackarticle" id="btntrackarticle" value="Submit" class="btn btn-large" style="float:right;">
+               </form>
+            </div>
+            <!-- Page content End --> 
+         </div>
+      </div>
+      <!-- Widget End --> 
+      <!-- Widget Start -->
+      <!-- Widget End --> 
+      <!--Featured Post Widget Start -->
+      <div class="widget sidebar-featured-post">
+         
+         
+         <div class="cp-sidebar-content">
+            <h3 class="side-title">Video Articles</h3>
+            <a href="video-articles.php"><img alt="Video Articles" src="img/Video-Articles.gif" width="100%" border="5"></a>
+           
+         </div>
+        
+         
+      </div>
+     
+      <!-- Widget Start -->
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Sign up For Newsletter</h3>
+         <div class="cp-newsletter-holder">
+            <!-- Post Comments Form -->
+            <div class="cp-comments-form">
+               <form name="newsletters" id="signupnews" class="material" method="post" action="righttd.php" novalidate="novalidate">
+                  <div class="material-input input"><input type="text" name="txtFirstName" class="form-control" placeholder="Name*" style="width:100%;" onkeypress="return checkspecial(event);" id="txtFirstName"><span class="material-bar"></span></div>
+                  <span class="error_msg"></span>           
+                  <div class="material-input input"><input type="email" name="txtEmail" class="form-control" placeholder="Email*" style="width:100%;" onkeypress="return checkspecialname(event);" id="txtEmail"><span class="material-bar"></span></div>
+                  <span class="error_msg"></span>
+                  <input type="submit" name="btnSign" id="btnSign" value="Submit" class="btn btn-large" style="float:right;">
+               </form>
+            </div>
+            <!-- Page content End --> 
+         </div>
+      </div>
+      <!-- Widget End --> 
+      <!-- Tags Start -->
+      <div class="widget tags-widget">
+         <h3 class="side-title">Browse by Subject</h3>
+         <div class="cp-sidebar-content">
+            <a href="ajpn/" target="_blank">Pediatrics</a>
+            <a href="ajpn/" target="_blank">Neonatology </a>
+            <a href="argh/" target="_blank">Gastroenterology</a>
+            <a href="argh/" target="_blank">Hepatology</a>
+            <a href="aibm/" target="_blank">Biotechnology</a>
+            <a href="aibm/" target="_blank">Microbiology</a>
+            <a href="adoh/" target="_blank">Dentistry</a>
+            <a href="adoh/" target="_blank">Oral Health</a>
+            <a href="aaij/" target="_blank">Aeronautics</a>
+            <a href="aaij/" target="_blank">Aerospace </a>
+            <a href="artoaj/" target="_blank">Agricultural</a>                                          
+            <a href="apbij/" target="_blank">Anatomy Physiology</a>
+            <a href="apbij/" target="_blank">Biochemistry</a>
+            <a href="ctoij/" target="_blank">Cancer Therapy</a>
+            <a href="ctoij/" target="_blank">Oncology </a>
+            <a href="crdoj/" target="_blank">Diabetes</a>
+            <a href="crdoj/" target="_blank">Obesity</a>
+            <a href="gjn/" target="_blank">Nanomedicine </a>
+            <a href="gjo/" target="_blank">Otolaryngology</a>
+            <a href="gjpps/" target="_blank">Pharmacy</a>
+            <a href="gjpps/" target="_blank">Pharmaceutical</a>
+            <a href="ijcsmb/" target="_blank">Cell Science</a>
+            <a href="ijcsmb/" target="_blank">Molecular Biology</a>
+            <a href="ijesnr/" target="_blank">Environmental</a>
+            <a href="ijesnr/" target="_blank">Natural Resources</a>
+            <a href="ijoprs/" target="_blank">Pulmonary </a>
+           
+         </div>
+      </div>
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Upcomong Conference Scrolling</h3>
+         <div class="cp-newsletter-holder" id="pubmed">
+            <marquee class="pubmed-articles" align="top" behavior="scroll" onmouseout="this.start();" onmouseover="this.stop();" direction="up" scrollamount="2" style="padding: 10px 0px 10px 0px;height: 200px;background: #f5f5f5;overflow:hidden;">
+               <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p><ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+               
+            </marquee>
+            
+         </div>
+      </div>
+      <!-- Facebook End --> 
+   </div>
+</div>
 
 
             </div>
@@ -370,5 +644,4 @@ and after visiting our conferences.</p>
                     </div>
                
             </div>
-        </div>
-        <?php include("footer.php"); ?>
+        </div><?php include("footer.php"); ?>
