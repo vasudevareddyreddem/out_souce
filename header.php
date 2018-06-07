@@ -98,7 +98,7 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="index.php" class="current">Home</a></li> 
-                        <li><a href="#" class="">Open Access</a></li> 
+                        <li><a href="open-access.php" class="">Open Access</a></li> 
                         <li><a href="#" class="">Peer Review Process </a></li> 
                         <li><a href="#">Journals</a></li>  
                         <li ><a href="#">Guidelines</a></li>

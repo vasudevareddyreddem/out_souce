@@ -1,71 +1,49 @@
 <footer class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 col-sm-6 margin30">
-                     <center>  <img src="img/f_logo.png" class="m_top_20"></center>
-                       <p class="f_color padding_10">Copyright © 2017 Meddocs
-                    All Rights Reserved.</p>
+                    <div class="col-md-3 col-sm-6 margin30">
+                     <h3 class="">FOLLOW US</h3>
+                        <ul class="list-unstyled">
+                            
+                            <li><a href="#" target="_blank">Face Book</a></li>
+                            <li><a href="#" target="_blank">Twitter</a></li>
+                            <li><a href="#" target="_blank">Google +</a></li>
+                            <li><a href="#" target="_blank">Linkedin</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            
+                        </ul>
                     </div>
-                    <div class="col-md-4 col-sm-6 margin30">
-                        <h3>CONTACT US</h3>
-                        <ul class="list-unstyled contact">
-                                <li><strong><i class="fa fa-map-marker "></i></strong> 
-                                <p><strong>MedDocs Publishers LLC</strong><br>Suite 200-A, 
-401 Ryland St, 
-Reno, NV 89502<br>
-United States</p></li>
-                                <li> <strong><i class="fa fa-phone "></i> </strong>
-                                <p>+1-775-549-0087 
-                              </p></li>
-                                <li><strong><i class="fa fa-envelope "></i> </strong>  <a href="mailto:support@meddocsonline.org"><p>support@meddocsonline.org</p></a></li>
-                                
-
-                              <li>
-                              <strong><i class="fa fa-globe  "></i> </strong>
-                                <p><a href="index.html">www.meddocsonline.org</a></p>  
-                              </li>
-
-                            </ul>
-                       
-                    </div>
-                    <div class="col-md-2 col-sm-6 margin30">
+                   
+                    <div class="col-md-3 col-sm-6 margin30">
                         <h3>QUICK LINKS</h3>
                         <ul class="list-unstyled">
-                             <li><a href="index.html">Home</a></li>
-                            <li><a href="about-us.html">About</a></li>
-                            <li><a href="journals.html">Journals</a></li>
-                           <li><a href="e-books.html">eBooks</a></li>
-                            <li><a href="conference.html">Conferences</a></li>
-                            <li><a href="faq.html">FAQ's</a></li>
-                            <li><a href="membership.html">Membership</a></li>
-                            <li><a href="contactus.html">Contact Us</a></li>
-                            <li><a href="submit-manuscript.html">Submit Manuscript</a></li>
-                           <li><a href="author-guidelines.html">Author Guidelines</a></li>
-                           <li><a href="joinas-a-reviewer.html">Join As A Reviewer</a></li>
-                            <li><a href="open-access.html">Open Access</a></li>
-                           <li><a href="peer-review.html">Peer Review</a></li>
-                           <li><a href="plagiarism.html">Plagiarism</a></li>
+                             <li><a href="#">Journals</a></li>
+                             <li><a href="#">Guidelines</a></li>
+                             <li><a href="#">Conferences</a></li>
+                             <li><a href="#">Video Article</a></li>
+                             <li><a href="#">Submit Manuscript</a></li>
+                           
                         </ul>
+                    </div> 
+					<div class="col-md-3 col-sm-6 margin30">
+                        <h3>Contact Address	</h3>
+						<ul class="list-unstyled">
+						<li><a href="#">GRF Publishers Level 13/114 William Street, Melbourne VIC 3000 Australia</a></li>
+						</ul>
+                      
                     </div>
-                    <div class="col-md-2 col-sm-6 margin30">
-                        <h3>MAIN LINKS</h3>
+					<div class="col-md-3 col-sm-6 margin30">
+                        <h3>Contact Information	</h3>
                         <ul class="list-unstyled">
-                            
-                            <li><a href="journals.html">Journals</a></li>
-                            <li><a href="conference.html">Conferences</a></li>
-                            <li><a href="e-books.html">eBooks</a></li>
-                            
+                             <li><a ><i class="fa fa-volume-control-phone" aria-hidden="true"></i>&nbsp; 9951033345</a></li>
+                             <li><a ><i class="fa fa-fax" aria-hidden="true"></i>&nbsp; **********</a></li>
+                             <li><a ><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp; Contact@grf****</a></li>
+                             <li><a >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support@grf**</a></li>
+							   <li><a ><i class="fa fa-globe" aria-hidden="true"></i></i>&nbsp; www.grfpublishers.com</a></li>
+                           
+                           
                         </ul>
-
-                         <h3 class="m_top_20">FOLLOW US</h3>
-                        <ul class="list-unstyled">
-                            
-                            <li><a href="https://www.facebook.com/MedDocsOnline/" target="_blank">Face Book</a></li>
-                            <li><a href="https://twitter.com/MedDocsOnline" target="_blank">Twitter</a></li>
-                            <li><a href="https://plus.google.com/u/0/104451341523748356714" target="_blank">Google +</a></li>
-                            
-                        </ul>
-                    </div>
+                    </div> 
                 </div>
             </div>
         </footer><!--footer-->
