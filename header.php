@@ -15,7 +15,7 @@
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen">
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        
+        <link href="css/atoz.css" rel="stylesheet" type="text/css">
        <link href='https://fonts.googleapis.com/css?family=Roboto:400,900,700,500,400italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
@@ -99,9 +99,19 @@
                     <ul class="nav navbar-nav">
                         <li><a href="index.php" class="current">Home</a></li> 
                         <li><a href="open-access.php" class="">Open Access</a></li> 
-                        <li><a href="#" class="">Peer Review Process </a></li> 
-                        <li><a href="#">Journals</a></li>  
-                        <li ><a href="#">Guidelines</a></li>
+                        <li><a href="peer-review-process.php" >Peer Review Process </a></li> 
+                        <li><a href="journals.php">Journals</a></li>  
+						<li class="dropdown">
+						  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Guidelines <b class="caret"></b></a>
+						  <ul class="dropdown-menu">
+							<li><a href="#">Editors</a></li>
+							<li><a href="#">Authors</a></li>
+							<li><a href="#">Manuscript Guidelines</a></li>
+							<li><a href="#">Member ship</a></li>
+							
+						  </ul>
+						</li>
+                       
                         <li ><a href="#">Conferences</a></li>
 						<li ><a href="#">Video Articles</a></li>
 						<li ><a href="#">Submit Manuscript</a></li>

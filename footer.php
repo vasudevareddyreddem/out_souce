@@ -83,6 +83,7 @@
         <script src="js/real-estate-custom.js" type="text/javascript"></script>
         <script src="js/jssor.slider-24.1.5.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="js/banner.js"></script>
+		<script type="text/javascript" src="js/hover-effect.js"></script>
 
         <script type="text/javascript">
            /* $(function(){

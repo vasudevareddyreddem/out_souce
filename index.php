@@ -11,32 +11,32 @@
                             
                 <div class="item active">
                                 
-                    <img src="img/ebooks-banner.jpg">
+                    <img src="img/journalThumbnail_en_US 2.jpg">
                     <div class="carousel-caption">
                     <p> 
-                    <a class="btn btn-primary" href="e-books.html" target="_blank">
+                    <a class="btn btn-primary" href="#" target="_blank">
                     GRF Open Access Publishers </a></p>
                                     
                     </div>            
                 </div><!-- End Item -->
  
                 <div class="item">
-                   <img src="img/md-journals.jpg">
+                   <img src="img/journalThumbnail_en_US.jpg">
                     <div class="carousel-caption">
                     <p> 
-                    <a class="btn btn-primary" href="journals.html" target="_blank">
-                    MedDocs Publishers - Journals</a></p>
+                    <a class="btn btn-primary" href="#" target="_blank">
+                   GRF Open Access Publishers</a></p>
                                     
                     </div>
                 </div><!-- End Item -->
         
                 <div class="item">
                             
-                  <img src="img/md-conferences.jpg">
+                  <img src="img/journalThumbnail_en_US 2.jpg">
                     <div class="carousel-caption">
                     <p> 
-                    <a class="btn btn-primary" href="conference.html" target="_blank">
-                    MedDocs Publishers - Conferences</a></p>
+                    <a class="btn btn-primary" href="#" target="_blank">
+                   GRF Open Access Publishers</a></p>
                                     
                     </div>
                 </div><!-- End Item -->
