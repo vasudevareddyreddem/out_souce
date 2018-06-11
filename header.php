@@ -124,7 +124,7 @@
                         <li ><a href="conference.php">Conferences</a></li>
 						<li ><a href="video-article.php">Video Articles</a></li>
 						<li ><a href="menuscript.php">Submit Manuscript</a></li>
-						<li ><a href="#"> Contact Us</a></li>
+						<li ><a href="contactus.php"> Contact Us</a></li>
 
 
                     </ul>
