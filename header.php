@@ -10,6 +10,7 @@
     <meta name="keywords" content="peer reviewed medical journals, medical articles online, journal of medical informatics, latest medical journal articles, journal of medical research.">
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		 <link href="css/bootstrapValidator.min.css" rel="stylesheet">
         <!-- custom css  -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen">
@@ -28,6 +29,14 @@
         <link href="css/rev-style.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen"> 
        <!-- <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">-->
+	      <script src="js/jquery.min.js"></script>
+        <script src="js/jquery-migrate.min.js"></script>
+         <!--on scroll animation-->
+        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <!--bootstrap js plugin-->
+
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>  
+		<script src="js/bootstrapValidator.min.js"></script>	
     </head>
     <body>
         <div class="top-bar hidden-xs bg-dark">
@@ -104,17 +113,17 @@
 						<li class="dropdown">
 						  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Guidelines <b class="caret"></b></a>
 						  <ul class="dropdown-menu">
-							<li><a href="#">Editors</a></li>
-							<li><a href="#">Authors</a></li>
-							<li><a href="#">Manuscript Guidelines</a></li>
-							<li><a href="#">Member ship</a></li>
+							<li><a href="editors.php">Editors</a></li>
+							<li><a href="author-guidelines.php">Authors</a></li>
+							<li><a href="manuscript-guidelines.php">Manuscript Guidelines</a></li>
+							<li><a href="membership.php">Member ship</a></li>
 							
 						  </ul>
 						</li>
                        
-                        <li ><a href="#">Conferences</a></li>
-						<li ><a href="#">Video Articles</a></li>
-						<li ><a href="#">Submit Manuscript</a></li>
+                        <li ><a href="conference.php">Conferences</a></li>
+						<li ><a href="video-article.php">Video Articles</a></li>
+						<li ><a href="menuscript.php">Submit Manuscript</a></li>
 						<li ><a href="#"> Contact Us</a></li>
 
 

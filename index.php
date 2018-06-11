@@ -1,81 +1,88 @@
  <?php include("header.php"); ?>
        <div class="ab_class">
-        <div class="mainbanner1">
-             <div class="container">
-                <div class="col-md-4">
-                
-               <div id="myCarousel" class="carousel slide " data-ride="carousel">
-                        
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner">
-                            
-                <div class="item active">
-                                
-                    <img src="img/journalThumbnail_en_US 2.jpg">
-                    <div class="carousel-caption">
-                    <p> 
-                    <a class="btn btn-primary" href="#" target="_blank">
-                    GRF Open Access Publishers </a></p>
-                                    
-                    </div>            
-                </div><!-- End Item -->
- 
-                <div class="item">
-                   <img src="img/journalThumbnail_en_US.jpg">
-                    <div class="carousel-caption">
-                    <p> 
-                    <a class="btn btn-primary" href="#" target="_blank">
-                   GRF Open Access Publishers</a></p>
-                                    
-                    </div>
-                </div><!-- End Item -->
-        
-                <div class="item">
-                            
-                  <img src="img/journalThumbnail_en_US 2.jpg">
-                    <div class="carousel-caption">
-                    <p> 
-                    <a class="btn btn-primary" href="#" target="_blank">
-                   GRF Open Access Publishers</a></p>
-                                    
-                    </div>
-                </div><!-- End Item -->
-                
-   			</div><!-- End Carousel Inner -->
-   						
-   			<ul class="list-group col-md-3 carousel-indicators">
-               
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1" ></li>
-                    <li data-target="#myCarousel" data-slide-to="2" ></li> 
-               
-    		</ul>
-        </div>
-                
-                
-                </div>
-                <div class="col-md-8">
-                 <div class="art-hed"><h2>Articles</h2></div>
-                 <div class="arti-home">
-                 	<h4><a href="annals-of-biotechnology-press.html">Application of multi-omics in single cells</a></h4>
-                    <h5>Xiaolong Kang; George E Liu*; Andrew Liu</h5>
-                    <p><a href="annals-of-biotechnology.html">Annals of Biotechnology</a></p>
-                 </div>
-                 <div class="arti-home">
-                 	<h4><a href="journal-of-radiology-and-medical-imaging-press.html">Is there a risk of getting cancer from radiation from medical diagnostic imaging?</a></h4>
-                    <h5>Mervyn D Cohen</h5>
-                    <p><a href="journal-of-radiology-and-medical-imaging.html">Journal of Radiology and Medical Imaging</a></p>
-                 </div>
-                 
-                 <div class="arti-home">
-                 	<h4><a href="journal-of-nanomedicine-press.html">Amino acid-based liposomal assemblies: Intracellular plasmid DNA delivery nanoparticles</a></h4>
-                    <h5>Satya Ranjan Sarker*; Shinji Takeoka</h5>
-                    <p><a href="journal-of-nanomedicine.html">Journal of Nanomedicine</a></p>
-                 </div>
-                 
-               
+        <div class="">
+             <div class="">
+               <div id="bootstrap-touch-slider" class="carousel bs-slider slide  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="5000" >
 
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper For Slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <!-- Third Slide -->
+                <div class="item active">
+
+                    <!-- Slide Background -->
+                    <img src="img/homeban1.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+
+                    <div class="container">
+                        <div class="row">
+                            <!-- Slide Text Layer -->
+                            <div class="slide-text slide_style_center">
+                                <h1 data-animation="animated zoomInRight">Bootstrap Carousel</h1>
+                                <p data-animation="animated fadeInLeft">Bootstrap carousel now touch enable slide.</p>
+                                <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">select one</a>
+                                <a href="http://bootstrapthemes.co/" target="_blank"  class="btn btn-primary" data-animation="animated fadeInRight">select two</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                <!-- End of Slide -->
+
+                <!-- Second Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="img/homeban2.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated flipInX">Bootstrap touch slider</h1>
+                        <p data-animation="animated lightSpeedIn">Make Bootstrap Better together.</p>
+                        <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">select one</a>
+                        <a href="http://bootstrapthemes.co/" target="_blank"  class="btn btn-primary" data-animation="animated fadeInDown">select two</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+                <!-- Third Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="img/homeban3.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated zoomInLeft">Beautiful Animations</h1>
+                        <p data-animation="animated fadeInRight">Lots of css3 Animations to make slide beautiful .</p>
+                        <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">select one</a>
+                        <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-primary" data-animation="animated fadeInRight">select two</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+
+            </div><!-- End of Wrapper For Slides -->
+
+            <!-- Left Control -->
+            <a class="left carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="prev">
+                <span class="fa fa-angle-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+
+            <!-- Right Control -->
+            <a class="right carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="next">
+                <span class="fa fa-angle-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+
+        </div>
              </div>
          </div>
        </div>

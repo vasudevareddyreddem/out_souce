@@ -55,13 +55,7 @@
         </div> -->
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/jquery-migrate.min.js"></script>
-         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
-        <!--bootstrap js plugin-->
-
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+     	
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->

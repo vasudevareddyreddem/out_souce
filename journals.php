@@ -1,31 +1,41 @@
  <?php include("header.php"); ?>
       
-        <div class="ab_class" id="header" style="bac-jls">
+        <div class=" bg-danger" id="" style="height:100px;">
             <div class="container-fulid ">
-                <div class="container padding_top_60">
+                <div class="container padding_top_40">
                     <div class="row">
                       <div class="typography-section">
 						  <div class="container label-sty">
-							  <span><a class="label label-primary" href="#">All</a></span> 
-							  <span><a class="label label-primary" href="#">a</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
-							  <span><a class="label label-primary" href="#">b</a></span>
+							  <span class="head-journ">Journals</span> &nbsp;&nbsp;
+							  <span><a class="label label-warning" href="#">All</a></span> 
+							  <span><a class="label label-primary" href="#">A</a></span>
+							  <span><a class="label label-primary" href="#">B</a></span>
+							  <span><a class="label label-primary" href="#">C</a></span>
+							  <span><a class="label label-primary" href="#">D</a></span>
+							  <span><a class="label label-primary" href="#">E</a></span>
+							  <span><a class="label label-primary" href="#">F</a></span>
+							  <span><a class="label label-primary" href="#">G</a></span>
+							  <span><a class="label label-primary" href="#">H</a></span>
+							  <span><a class="label label-primary" href="#">I</a></span>
+							  <span><a class="label label-primary" href="#">J</a></span>
+							  <span><a class="label label-primary" href="#">K</a></span>
+							  <span><a class="label label-primary" href="#">L</a></span>
+							  <span><a class="label label-primary" href="#">M</a></span>
+							  <span><a class="label label-primary" href="#">N</a></span>
+							  <span><a class="label label-primary" href="#">O</a></span>
+							  <span><a class="label label-primary" href="#">P</a></span>
+							  <span><a class="label label-primary" href="#">Q</a></span>
+							  <span><a class="label label-primary" href="#">R</a></span>
+							  <span><a class="label label-primary" href="#">S</a></span>
+							  <span><a class="label label-primary" href="#">T</a></span>
+							  <span><a class="label label-primary" href="#">U</a></span>
+							  <span><a class="label label-primary" href="#">V</a></span>
+							  <span><a class="label label-primary" href="#">W</a></span>
+							  <span><a class="label label-primary" href="#">X</a></span>
+							  <span><a class="label label-primary" href="#">Y</a></span>
+							  <span><a class="label label-primary" href="#">Z</a></span>
+							                
+							  
 						  </div>
 						</div>
                     </div>
@@ -53,7 +63,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -71,7 +81,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -89,7 +99,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -107,7 +117,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -125,7 +135,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -142,7 +152,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -160,7 +170,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -178,7 +188,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href="alzheimers-disease-and-treatment.html"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
