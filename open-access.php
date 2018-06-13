@@ -148,7 +148,7 @@
                 </div>
 				
 				</div>
-		   <div class="col-md-4 mt20">
+<div class="col-md-4 mt20">
    <div class="sidebar side-bar right-sidebar">
       <div class="widget sidebar-newsletter">
          <h3 class="side-title">Latest Updates Scrolling</h3>
