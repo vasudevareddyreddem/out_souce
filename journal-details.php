@@ -1,141 +1,797 @@
  <?php include("header.php"); ?>
-  <div class="conainer-fulid">
-            <div class="container">
-                <div class="row">
-                
-                	<div class="divide-35">
-                      <div class="col-md-4">
-                      	<div class="ebook-img"><img src="img/books/alzheimer%27s-disease-and-treatment.jpg" class="img-responsive"></div>
-                        <div>
-                        	<div class="text-center">
-                    <div class="box2">
-                        <div class="box-content">
-                            <!--<h2>Contact Us</h2>
-                            <hr />
-                            <p>919 North Market Street Suite 425 Wilmington, DE 19801</p>-->
-                           <a href="ppc.html" class="btn2 btn-block btn-primary"><i class="fa fa-phone"></i> +1-775-549-0087</a>
-                            <br>
-                            <a href="mailto:support@meddocsonline.org" class="btn2 btn-block btn-primary"><i class="fa fa-envelope"></i> &nbsp; support@meddocsonline.org</a>
+  <div id="bootstrap-touch-slider" class="carousel bs-slider slide  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="5000" >
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper For Slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <!-- Third Slide -->
+                <div class="item active">
+
+                    <!-- Slide Background -->
+                    <img src="img/homeban1.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+
+                    <div class="container">
+                        <div class="row">
+                            <!-- Slide Text Layer -->
+                            <div class="slide-text slide_style_center">
+                                <h1 data-animation="animated zoomInRight">GRF Banner 1</h1>
+                               
+                            </div>
                         </div>
                     </div>
                 </div>
-                        </div>
-                      </div>
-                      <div class="col-md-8">
-                      <h4>ISBN: 978-81-936678-1-1</h4>
-                      <hr>
-                            <div class="sub-ebook-pages"> 
-                            <div class="newtextbox1">
-    <h4>The role of nutrition in the prevention and treatment of Alzheimer's Disease</h4>
-     <h5>Motahar Heidari-Beni*; Nahid Rafie; Sahar Golpour-Hamedani; Seyede-Masome Derakhshande-Rishehri</h5>
-    <p>Alzheimer's Disease (AD) is characterized as a chronic and progressive neurodegenerative disease with well-defined pathophysiological mechanisms, mostly affecting medial temporal lobe and associative neocortical structures [1]. Since its discovery some hundred years ago, AD continues to pose problems for affected families and society, especially in developed countries [2]. AD begins gradually; advances; and eventually leads to confusion, personality and behavior changes, and impaired judgment.</p>
-    
-<!--<span class="badge2">Posted 04-07-2017, 11:30 AM</span>-->
-<div class="pull-right">
-    <a href="#X"><span class="label1 label-primary"><i class="fa fa-code" aria-hidden="true"></i>&nbsp; Show HTML Page</span> </a>
-	<a href="ebooks/alzheimers-disease-and-treatmen/the-role-of-nutrition-in-the-prevention-and-treatment-of-alzheimers-disease.pdf" target="_blank"><span class="label1 label-danger"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; PDF</span></a>
-</div>         
-     <div class="clearfix"></div>
-     </div>
-           <hr> 
-                            
-                            	<div class="newtextbox1">
-    <h4>Treatment of CSVD in Alzheimer's Disease by means of
-Transcatheter Intracerebral Laser Exposure</h4>
-     <h5>Ivan V Maksimovich</h5>
-    <p>Cerebral Small Vessel Disease (CSVD) is one of the causes of AD development. This research focuses on the changes in dementia and cognitive functions in AD after restoration of cerebral distal arterial and capillary blood supply by transcatheter intracerebral laser revascularization. It also compares the results of this method with those of widespread conservative methods.</p>
-    
-<!--<span class="badge2">Posted 04-07-2017, 11:30 AM</span>-->
-<div class="pull-right">
-    <a href="#X"><span class="label1 label-primary"><i class="fa fa-code" aria-hidden="true"></i>&nbsp; Show HTML Page</span> </a>
-	<a href="ebooks/alzheimers-disease-and-treatmen/treatment-of-CSVD-in-alzheimers-disease-by-means-of-transcatheter-intracerebral-laser-exposure.pdf" target="_blank"><span class="label1 label-danger"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; PDF</span></a>
-</div>         
-     <div class="clearfix"></div>
-     </div>
-           <hr>  
-           
-           <div class="newtextbox1">
-    <h4>Design of Metal Complexes as Anti-AD Agents</h4>
-     <h5>Jan Mohammad Mir</h5>
-    <p>Alzheimer's Disease (AD) is a neurodegenerative (gradual loss of biological functions of nerves) disease characterized by precipitation of β-amyloid protein, so called amyloid plaque formation via metal-peptide interactions in the brain causing dementia (a syndrome due to brain disease, characterized by progressive deterioration in intellectual abilities).Two types of biochemical features of Alzheimer's Disease (AD) that contribute to neurodegeneration are intracellular oxidative stress and elevated level of trace metal ions, especially FeIII, CuII and ZnII.</p>
-    
-<!--<span class="badge2">Posted 04-07-2017, 11:30 AM</span>-->
-<div class="pull-right">
-    <a href="#X"><span class="label1 label-primary"><i class="fa fa-code" aria-hidden="true"></i>&nbsp; Show HTML Page</span> </a>
-	<a href="ebooks/alzheimers-disease-and-treatmen/design-of-metal-complexes-as-anti-ad-agents.pdf" target="_blank"><span class="label1 label-danger"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; PDF</span></a>
-</div>         
-     <div class="clearfix"></div>
-     </div> 
-     
-     <hr>   
-     
-    <div class="newtextbox1">
-    <h4>Therapeutic Strategies Targeting Tau Protein: Implications for Alzheimer's Disease</h4>
-     <h5>Lídia Pinheiro; Célia Faustino*</h5>
-    <p>Alzheimer's Disease (AD) is a progressive neurodegenerative condition with clinical features that include memory loss and cognitive deterioration. It belongs to the class of proteinopathies, thus being characterized by the aggregation of misfolded proteins. Intracellular Neurofibrillary Tangles (NFT), consisting of a highly phosphorylated form of the microtubule-bound tau protein, and extracellular amyloid plaques mainly composed of β-amyloid peptide appear to endorse the histopathology of AD. The process of association/dissociation of tau protein with Microtubules (MT) causes its involvement in MT dynamics and in neuronal axonal transport.</p>
-    
-<div class="pull-right">
-    <a href="#X"><span class="label1 label-primary"><i class="fa fa-code" aria-hidden="true"></i>&nbsp; Show HTML Page</span> </a>
-	<a href="ebooks/alzheimers-disease-and-treatmen/therapeutic-strategies-targeting-tau-protein-implications-for-alzheimers-disease.pdf" target="_blank"><span class="label1 label-danger"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; PDF</span></a>
-</div>         
-     <div class="clearfix"></div>
-     </div> 
-     
-      <hr> 
-      
-          
-    <div class="newtextbox1">
-    <h4>Insulin Resistance in Alzheimer's Disease</h4>
-     <h5>Esra ATES BULUT MD; Pinar SOYSAL MD; Ahmet Turan ISIK MD*</h5>
-    <p>As the world population has aged, dementia has become a common diagnosis in aging populations and the numbers will increase in the forthcoming years. Globally, an estimated 47 million people are affected by dementia [1]. Alzheimer's Disease (AD) is the most common cause of dementia and one of the leading causes of morbidity and mortality in older adults.</p>
-    
-<div class="pull-right">
-    <a href="#X"><span class="label1 label-primary"><i class="fa fa-code" aria-hidden="true"></i>&nbsp; Show HTML Page</span> </a>
-	<a href="ebooks/alzheimers-disease-and-treatmen/insulin-resistance-in-alzheimers-disease.pdf" target="_blank"><span class="label1 label-danger"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; PDF</span></a>
-</div>         
-     <div class="clearfix"></div>
-     </div> 
-     
-      <hr> 
-     
-     
-     
-     
-     
-     
-     
-               
-                            </div>
-                            
-                      </div>
-                      <div class="clearfix"></div>
+                <!-- End of Slide -->
+
+                <!-- Second Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="img/homeban2.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated flipInX">GRF Banner 2</h1>
+                        
                     </div>
-                
-                
-            </div>
-        </div>
-        </div>
-         
-      
-        
-          <div class="search-filter">
-            <div class="container">
-                    <div class="row">
+                </div>
+                <!-- End of Slide -->
+
+                <!-- Third Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="img/homeban3.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated zoomInLeft">GRF Banner 3</h1>
                        
-                       <div class="col-md-10 col-xs-12">
-                           <h3>MedDocs Publishers</h3>
-                           <p>We always work towards offering the best to you. For any queries, please feel free to get in
-touch with us. Also you may post your valuable feedback after reading our journals, ebooks
-and after visiting our conferences.</p>
-                       </div>  
-                       <div class="col-md-2 col-xs-12 text-center padding_0">
-                           <a href="contactus.html" class="btn btn-red btn-lg btn-block ">CONTACT US</a>
-                       </div>
-                       <!--  <div class="col-md-3 col-sm-6 margin20">
-                            <a href="#" class="btn btn-red btn-lg btn-block"><i class="fa fa-search"></i>Search</a>
-                        </div> -->
                     </div>
-               
+                </div>
+                <!-- End of Slide -->
+
+
+            </div><!-- End of Wrapper For Slides -->
+
+            <!-- Left Control -->
+            <a class="left carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="prev">
+                <span class="fa fa-angle-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+
+            <!-- Right Control -->
+            <a class="right carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="next">
+                <span class="fa fa-angle-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a> </div>
+		<div class="container " >
+            <div class="row">
+				<div class="col-md-9">
+					<div class="bg_color2">
+							<ul class="nav nav-tabs">
+								<li class="active"><a href="#tab1primary" data-toggle="tab">Home</a></li>
+								<li><a href="#tab2primary" data-toggle="tab"> Board Members</a></li>
+								<li><a href="#tab3primary" data-toggle="tab"> Article In Press</a></li>
+								<li><a href="#tab4primary" data-toggle="tab">Current Issue</a></li>
+								<li><a href="#tab5primary" data-toggle="tab">Archive</a></li>
+								<li><a href="#tab6primary" data-toggle="tab">Article Process Fee</a></li>
+								<li><a href="#tab7primary" data-toggle="tab">Special Issue</a></li>
+								
+							</ul>
+					</div>
+					<div class="panel-body">
+						<div class="tab-content">
+							<div class="tab-pane fade in active" id="tab1primary">
+							 <div class=" Welcome_txt fadeInLeft wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
+                  
+					<br>
+					<h3 class="">About    
+						<span class="text-success"> Journal</span> 
+					</h3>
+					
+					<p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					</p>
+					<br>
+					<h3 class="">Aim    
+						<span class="text-success">and </span>  Scope
+					</h3>
+					<p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					</p>
+					<p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					</p>
+					<p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					</p>
+					<br>
+					<h3 class="">Highlighted     
+						<span class="text-success">Topics </span>  
+					</h3>
+					<div class="lis-sty-none">
+					<ul>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						<li> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+						
+					</ul>
+					</div>
+					<br>
+					<h3 class="">   Benefits
+						<span class="text-success"> </span>
+					</h3>
+					<div class="lis-sty-none">
+					<ul>
+						<li>Editors can be promoted as senior editor and executive editor in the concerned journal based on their active participation and also based on their experience.</li>
+						<li>Editors will be given highest priority in all the events that are organized by GRF Publishers.</li>
+						<li>Based on their kind contributions and their efficiency, there is a chance to serve as a prominent member of the advisory board.</li>
+						<li>After one year of due course, Editor-in-Chief will be announced for every journal based on their active participation, expertise in the field, contribution towards the Journal and also their scientific contributions.</li>
+						<li>The review comments that are given by the editors will be strictly followed after which the authors will be requested to modify their manuscript according to the editor’s suggestions.</li>
+						<li>We promote all the articles of the Editors that are published in our journals, in various social networking groups from our end, increasing visibility for their works.</li>
+						<li>GRF journals consider editorials as a note to the young researchers and scholars.</li>
+						<li>Editors shall be honoured in position as chair/co-chair for any conferences organized by us and also the fee will be waived.</li>
+					
+					</ul>
+					</div>
+					
+                   
+                </div>
+							
+							</div>
+							<div class="tab-pane fade" id="tab2primary">
+								<div class="row">
+           
+			<!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p> 
+									<div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div><div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div>
+									
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
+            <!-- ./Team member -->
+			<!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p> 
+									<div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div><div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div>
+									
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ./Team member -->
+			<!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p> 
+									<div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div><div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div>
+									
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ./Team member --><!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p> 
+									<div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div><div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div>
+									
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ./Team member -->
+			<!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p> 
+									<div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div><div class="text-left"><strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. </div>
+									
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ./Team member -->
+           
+          
+
         </div>
+							</div>
+							<div class="tab-pane fade" id="tab3primary">
+				<div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+							<div class="article-view">
+								<div class="tabl">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+							<div class="article-details">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+				<div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+							<div class="article-view">
+								<div class="tabl">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+							<div class="article-details">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+				<div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+							<div class="article-view">
+								<div class="tabl">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+							<div class="article-details">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+							
+							
+							</div>
+							<div class="tab-pane fade" id="tab4primary">
+								<div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+							<div class="article-view">
+								<div class="tabl">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+							<div class="article-details">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+				<div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+							<div class="article-view">
+								<div class="tabl">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+							<div class="article-details">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+				<div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-lg-2 col-md-3 col-sm-2 col-xs-4 p0">
+							<div class="article-view">
+								<div class="tabl">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-10 col-xs-8">
+							<div class="article-details">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+							
+							</div>
+							<div class="tab-pane fade" id="tab5primary">
+								<div class="row">
+									<div class="col-md-4">
+										<img style ="" class= "img-responsive" src="img/archive_img.jpg" alt="archive 2018">
+										<div class="text-archive-img">
+											<h3 class="">About    
+						<span class="text-success"> 2016</span> 
+					</h3>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<img style ="" class= "img-responsive" src="img/archive_img.jpg" alt="archive 2018">
+										<div class="text-archive-img">
+											<h3 class="">About    
+						<span class="text-success"> 2017</span> 
+					</h3>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<img style ="" class= "img-responsive" src="img/archive_img.jpg" alt="archive 2018">
+										<div class="text-archive-img">
+											<h3 class="">About    
+						<span class="text-success"> 2018</span> 
+					</h3>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tab6primary">Primary 5</div>
+							<div class="tab-pane fade" id="tab7primary">Primary 5</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 mt20">
+   <div class="sidebar side-bar right-sidebar">
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Latest Board Members</h3>
+         <div class="cp-newsletter-holder" id="pubmed">
+            <marquee class="pubmed-articles" align="top" behavior="scroll" onmouseout="this.start();" onmouseover="this.stop();" direction="up" scrollamount="2" style="padding: 10px 0px 10px 0px;height: 200px;background: #f5f5f5;overflow:hidden;">
+               <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p><ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   <ul>
+                  <li style="padding:0px 0px 0px 10px">
+                     <!--<span style="font-size:15px; font-weight:bold">Global Journal of Addiction & Rehabilitation Medicine</span><br>-->
+                     <a href="" target="_blank" style=" color:#000; text-decoration:none; padding:0px; margin:0px; font-weight:normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a><br>
+                  </li>
+               </ul>
+               <p style="border-bottom:none; color: #05658F; text-decoration: none; font-weight: bold;">
+                  <span style="color: #05658F; text-decoration: none; font-weight: bold;">PMID: <a href="#" target="_blank"> 29645007</a></span>
+               </p>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+               
+            </marquee>
+            
+         </div>
+      </div>
+			</div>
+			<div class="clearfix">&nbsp;</div>
+			
+			<div class="sidebar side-bar right-sidebar">
+      <div class="widget sidebar-newsletter">
+         <h3 class="side-title">Latest Board Members</h3>
+         <div class="cp-newsletter-holder" id="pubmed">
+            <marquee class="pubmed-articles" align="top" behavior="scroll" onmouseout="this.start();" onmouseover="this.stop();" direction="up" scrollamount="2" style="padding: 10px 0px 10px 0px;height: 200px;background: #f5f5f5;overflow:hidden;">
+              <div class="article">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="article-head clearfix">
+								<span class="pull-left"><h4 class="text-white">Research Article</h4></span>
+
+							</div>
+						</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="article-body clearfix">
+					<div class="row">
+						<div class="col-md-12 ">
+								<div class="">
+									<img src="http://grfpublishers.com/public/journals/59/journalThumbnail_en_US.jpg" align="left" alt="Article Image">
+								</div>
+							</div>
+						</div>
+						<div class=" col-md-12 ">
+							<div class="">
+								<h4><a href="#" target="_blank" style="color:#0062C4;">An Exploration into the Acceptance of Male Rape Myths within the UK</a></h4>
+								<span class="name">Elizabeth Spruin* and Miss Laura Reilly</span>
+								<h6><a href="#" target="_blank" style="color:#F60;">Journal of Forensic Sciences &amp; Criminal Investigation </a></h6>
+									  <p class="art-date">DOI:<a href="http://dx.doi.org/10.19080/JFSCI.2018.09.555763" target="_blank">10.19080/JFSCI.2018.09.555763</a></p>
+							  </div>
+						</div>
+					</div>
+					<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="get-here">
+					<ul>
+					<li>
+					<a href="" target="_blank" class="btn btn-primary " style="font-size:12px;"> <i class="fa fa-unlock-alt"></i>&nbsp; PDF</a>
+					</li>
+					<li>
+					<a href="" target="_blank" class="btn btn-warning " style="font-size:12px;"> <i class="fa fa-code" aria-hidden="true"></i> HTML</a>
+					</li>
+					
+					<li>
+					
+					</li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>
+				</div>
+               <p style="border-bottom:1px thin #ff9933; padding-top:0px"></p>
+			   
+               
+            </marquee>
+            
+         </div>
+      </div>
+			</div>
+		</div>
+				
+			</div>
+		</div>
+       
  <?php include("footer.php"); ?>

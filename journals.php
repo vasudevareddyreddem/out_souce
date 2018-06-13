@@ -63,7 +63,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -81,7 +81,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -99,7 +99,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -117,7 +117,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -135,7 +135,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -152,7 +152,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -170,7 +170,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
@@ -188,7 +188,7 @@
 				                        <div class="common-doctor animated fadeInUp clearfix ae-animation-fadeInUp">
 
 					                        <ul class="list-inline social-lists animate">
-												<li><a href=""><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
+												<li><a href="journal-details.php"><i class="fa fa-link" aria-hidden="true"></i> VIEW MORE</a></li>
 											</ul>
 
 	                                        <figure>
