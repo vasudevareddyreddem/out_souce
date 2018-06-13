@@ -66,9 +66,9 @@
         <div class="header-logo-bar">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 col-sm-4 padding_left_0">
+                    <div class="col-md-2 col-sm-2 padding_left_0" style="width:12%;height:auto;">
                         <a href="index.php" class="header-logo">
-                            <img src="img/logo.png" alt="LOGO">
+                            <img class="img-responsive" src="img/logo.png" alt="LOGO">
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-8 hidden-xs ">
